@@ -1,3 +1,0 @@
-opencv-python
-pyqt5
-pickle-mixin
